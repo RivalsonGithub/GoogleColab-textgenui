@@ -9,4 +9,4 @@ Automatically installs Oobabooga and model to Google Colab
 
 ## if you don't have access to GPU
 - Use (https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/vicuna-13b-GPTQ-4bit-128g.ipynb#scrollTo=VCFOzsQSHbjM) 
-- Then paste my command lines
+- Then replace with my command lines (for updated UI)
